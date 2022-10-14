@@ -1,0 +1,1 @@
+web: gunicorn HOSPTAL.wsgi --log-file -
